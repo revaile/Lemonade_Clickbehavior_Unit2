@@ -26,3 +26,5 @@ Getting Started
 1. Download the starter code
 2. Open the project in Android Studio
 3. Complete the project in accordance with the app requirements
+
+![alt text](https://github.com/revaile/Lemonade_Clickbehavior_Unit2/blob/master/Cuplikan%20layar%202024-10-25%20230020.png?raw=true)
